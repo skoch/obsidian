@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "6a382c3245501b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2fc3e454f9feed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed12669ebdbe871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90751c823a8e7d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "960fb3cd3ed45db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "581342efbe35ad2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8ca168de8e7d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1534177963044d37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "751bca4e97c00c31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51fb2effe0e1e748",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "96f95c954cf662d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "446e5829a2b78ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e592a515ecfea5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e54f19530b023c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d5bcb7c0c58ac77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "621cc82403731813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2023/03/2023-03-22 Wed.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "960fb3cd3ed45db9",
+  "lastOpenFiles": [
+    "Postlight/Staff/checkins/eliana_herrera/Eliana Herrera 2023-03-22.md",
+    "Journal/2023/03/2023-03-22 Wed.md",
+    "Tasks.md",
+    "Journal/2023/2023 Summary.md",
+    "Postlight/Staff/checkins/eliana_herrera/Eliana Herrera 2023-02-14.md",
+    "Postlight/Staff/Eliana Herrera.md",
+    "Postlight/Projects/Postlight/Postlight.md",
+    "Templates/Project Meeting.md",
+    "Templates/Postlight Staff.md",
+    "Journal/2023/02/2023-02-15 Wed.md",
+    "Journal/2023/02/2023-02-14 Tue.md",
+    "Templates/Daily Note.md",
+    "Templates/Checkin.md",
+    "Postlight/Staff/Reports.md",
+    "Journal/2023/03",
+    "Postlight/Projects/Postlight/meetings/Postlight 2023-02-14 All Hands.md",
+    "Postlight/Projects/Postlight/meetings",
+    "Postlight/Projects/Postlight",
+    "Postlight/Staff/checkins/eliana_herrera",
+    "Postlight/Staff/checkins",
+    "Postlight/Staff/Eliana Herrera",
+    "Postlight/Projects",
+    "Postlight/Staff",
+    "Postlight",
+    "Assets/images"
+  ]
+}
