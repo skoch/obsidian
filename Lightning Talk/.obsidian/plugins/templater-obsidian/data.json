@@ -23,7 +23,8 @@
   "enabled_templates_hotkeys": [
     "Templates/Postlight Staff.md",
     "Templates/Checkin.md",
-    "Templates/Project Meeting.md"
+    "Templates/Project Meeting.md",
+    "Templates/Interview.md"
   ],
   "startup_templates": [
     ""

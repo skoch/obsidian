@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "file": "Postlight/Staff/Eliana Herrera.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Journal/2023/03/2023-03-23 Thu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c80684133205d123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postlight/Staff/Reports.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "file": "Journal/2023/03/2023-03-23 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023/03/2023-03-22 Wed.md",
+                "file": "Journal/2023/03/2023-03-23 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023/03/2023-03-22 Wed.md"
+                "file": "Journal/2023/03/2023-03-23 Thu.md"
               }
             }
           }
@@ -160,27 +173,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9ed12669ebdbe871",
+  "active": "90751c823a8e7d78",
   "lastOpenFiles": [
     "Tasks.md",
+    "Postlight/Staff/Eliana Herrera.md",
+    "Postlight/Staff/checkins/eliana_herrera/Eliana Herrera 2023-03-23.md",
+    "Journal/2023/03/2023-03-23 Thu.md",
+    "Templates/Checkin.md",
+    "Postlight/Projects/Postlight/meetings/Postlight 2023-03-23.md",
+    "Templates/Postlight Staff.md",
+    "Templates/Project Meeting.md",
+    "Journal/2023/2023 Summary.md",
+    "Templates/Daily Note.md",
     "Journal/2023/03/2023-03-22 Wed.md",
+    "Postlight/Staff/Reports.md",
+    "Postlight/Projects/Postlight/Postlight.md",
+    "Postlight/Projects/Postlight/meetings/Postlight 2023-02-14 All Hands.md",
     "Templates/Interview.md",
     "Templates/Interview Questions.md",
     "Postlight/Untitled",
     "Postlight/Staff/checkins/eliana_herrera/Eliana Herrera 2023-03-22.md",
-    "Journal/2023/2023 Summary.md",
     "Postlight/Staff/checkins/eliana_herrera/Eliana Herrera 2023-02-14.md",
-    "Postlight/Staff/Eliana Herrera.md",
-    "Postlight/Projects/Postlight/Postlight.md",
-    "Templates/Project Meeting.md",
-    "Templates/Postlight Staff.md",
     "Journal/2023/02/2023-02-15 Wed.md",
     "Journal/2023/02/2023-02-14 Tue.md",
-    "Templates/Daily Note.md",
-    "Templates/Checkin.md",
-    "Postlight/Staff/Reports.md",
     "Journal/2023/03",
-    "Postlight/Projects/Postlight/meetings/Postlight 2023-02-14 All Hands.md",
     "Postlight/Projects/Postlight/meetings",
     "Postlight/Projects/Postlight",
     "Postlight/Staff/checkins/eliana_herrera",

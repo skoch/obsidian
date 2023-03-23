@@ -51,5 +51,14 @@
       ],
       "key": "T"
     }
+  ],
+  "templater-obsidian:Templates/Interview.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }

@@ -2,6 +2,9 @@
 
 // Get a staff listing
 const { files } = await this.app.vault.adapter.list("/Postlight/Staff");
+
+
+
 const reports = files.filter(f => !f.endsWith("Reports.md")).map(f => f.split("/").pop().slice(0, -3))
 
 const name = await tp.system.suggester(reports, reports);
